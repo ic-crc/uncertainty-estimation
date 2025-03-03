@@ -1,0 +1,6 @@
+{
+    "column_mapping": {
+        "Measured Path Loss [dB]": "target", 
+         "Predicted Path Loss [dB]": "prediction"
+    }
+}

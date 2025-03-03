@@ -1,0 +1,8 @@
+seaborn==0.12.2
+scikit-learn==1.3.2
+ray==2.6.2
+pandas==2.0.3
+pyarrow==12.0.1
+crepes==0.6.2
+mapie==0.8.2
+ipdb==0.13.13
